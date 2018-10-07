@@ -1,0 +1,5 @@
+las carpetas estan organizadas de la siguiente manera: 
+
+data: contiene todos los datos descargados en cualquier versión
+rda: son los datos en versión R
+figs: los plots generados
